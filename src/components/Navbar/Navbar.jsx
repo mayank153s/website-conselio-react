@@ -12,10 +12,14 @@ class Navbar extends Component {
             <h1 className="nav-header">Conselio</h1>
             <div className="nav-items">
             <ul>
-            {this.state.navbarItems.map(navbarItems => <li key={navbarItems.id}><a href={navbarItems.url}>{navbarItems.title}</a></li>)}
+            {this.state.navbarItems.map(
+                navbarItems => <li key={navbarItems.id}>
+                <a href={navbarItems.url}>{navbarItems.title}</a></li>)}
             </ul>
             </div>
             </nav>
+
+            
         );
     }
 }
