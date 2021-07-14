@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/mayank153s/website-conselio-react.git/static/css/main.d4a00ecb.chunk.css",
+    "main.js": "/mayank153s/website-conselio-react.git/static/js/main.5bd4e2a8.chunk.js",
+    "main.js.map": "/mayank153s/website-conselio-react.git/static/js/main.5bd4e2a8.chunk.js.map",
+    "runtime-main.js": "/mayank153s/website-conselio-react.git/static/js/runtime-main.9a9e0e6e.js",
+    "runtime-main.js.map": "/mayank153s/website-conselio-react.git/static/js/runtime-main.9a9e0e6e.js.map",
+    "static/css/2.ef9168ec.chunk.css": "/mayank153s/website-conselio-react.git/static/css/2.ef9168ec.chunk.css",
+    "static/js/2.13efe176.chunk.js": "/mayank153s/website-conselio-react.git/static/js/2.13efe176.chunk.js",
+    "static/js/2.13efe176.chunk.js.map": "/mayank153s/website-conselio-react.git/static/js/2.13efe176.chunk.js.map",
+    "index.html": "/mayank153s/website-conselio-react.git/index.html",
+    "static/css/2.ef9168ec.chunk.css.map": "/mayank153s/website-conselio-react.git/static/css/2.ef9168ec.chunk.css.map",
+    "static/css/main.d4a00ecb.chunk.css.map": "/mayank153s/website-conselio-react.git/static/css/main.d4a00ecb.chunk.css.map",
+    "static/js/2.13efe176.chunk.js.LICENSE.txt": "/mayank153s/website-conselio-react.git/static/js/2.13efe176.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9a9e0e6e.js",
+    "static/css/2.ef9168ec.chunk.css",
+    "static/js/2.13efe176.chunk.js",
+    "static/css/main.d4a00ecb.chunk.css",
+    "static/js/main.5bd4e2a8.chunk.js"
+  ]
+}
