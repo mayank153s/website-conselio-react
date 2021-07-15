@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/website-conselio-react/static/css/main.d4a00ecb.chunk.css",
-    "main.js": "/website-conselio-react/static/js/main.5bd4e2a8.chunk.js",
-    "main.js.map": "/website-conselio-react/static/js/main.5bd4e2a8.chunk.js.map",
+    "main.js": "/website-conselio-react/static/js/main.db4496a5.chunk.js",
+    "main.js.map": "/website-conselio-react/static/js/main.db4496a5.chunk.js.map",
     "runtime-main.js": "/website-conselio-react/static/js/runtime-main.9c3f3dce.js",
     "runtime-main.js.map": "/website-conselio-react/static/js/runtime-main.9c3f3dce.js.map",
     "static/css/2.ef9168ec.chunk.css": "/website-conselio-react/static/css/2.ef9168ec.chunk.css",
@@ -18,6 +18,6 @@
     "static/css/2.ef9168ec.chunk.css",
     "static/js/2.13efe176.chunk.js",
     "static/css/main.d4a00ecb.chunk.css",
-    "static/js/main.5bd4e2a8.chunk.js"
+    "static/js/main.db4496a5.chunk.js"
   ]
 }
