@@ -14,6 +14,7 @@ function App(){
       <Counters />
       <Movies />
       <Navbar />
+      <h1>hello</h1>
     </div>
   )
 }
